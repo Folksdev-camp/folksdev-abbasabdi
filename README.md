@@ -1,5 +1,3 @@
-# folksdev-abbasabdi
-
 # FOLKSDEV & KODGEMISI SpringBoot BootCamp
 
 ## Requirements
