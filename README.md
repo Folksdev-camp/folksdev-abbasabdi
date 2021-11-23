@@ -1,6 +1,6 @@
 # folksdev-abbasabdi
 
-# FOLKSDEV && KODGEMISI Spr,ngBoot BootCamp
+# FOLKSDEV & KODGEMISI SpringBoot BootCamp
 
 ## Requirements
 ### Maven
