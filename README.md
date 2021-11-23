@@ -1,8 +1,8 @@
 # folksdev-abbasabdi
 
-###FOLKSDEV && KODGEMISI Spr,ngBoot BootCamp
+### FOLKSDEV && KODGEMISI Spr,ngBoot BootCamp
 
-##Requirements
-#Maven
-#Java11
-#PostgreSQL
+## Requirements
+# Maven
+# Java11
+# PostgreSQL
